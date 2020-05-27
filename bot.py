@@ -1,8 +1,8 @@
 import telebot
 import config
 from telebot import types
-from telebot.types import Message
-from weather import Weather
+
+
 
 bot = telebot.TeleBot(config.TOKEN)
 

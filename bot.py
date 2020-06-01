@@ -1,8 +1,8 @@
 import telebot
 import config
 from telebot import types
-import requests
-from bs4 import BeautifulSoup as BS
+
+
 
 bot = telebot.TeleBot(config.TOKEN)
 
